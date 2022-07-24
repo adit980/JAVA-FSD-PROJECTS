@@ -1,0 +1,4 @@
+Welcome everyone .
+This is a new !this is the new updatezz! creation in java.
+A new !this is the new updatezz! is created and contents are written
+Rest of the activities are also being done.
