@@ -1,0 +1,23 @@
+Assigned a folder to path variable for directory
+created maindisp() for one time display of details
+created menu1 to show mainmenu options
+created menu2 to show submenu options
+created exitdisp for exit window
+menu1 options:
+each option is enclosed in switch case
+if user enters 2 then submenu i.e menu2 is called
+in menu2 :
+each option is enclosed in switch case
+option to get back calls the menu1 again
+
+listAllFiles():it shows all files in sorted manner as tree Set is used to store
+               the files in directory
+
+createNewFile():it creates new file in directory
+deleteFile(): it deletes the file
+searchFile(): it is used to search the file in directory
+readFile(): it shows the contents of the file
+writeFile():it is used to write into a file
+
+
+
